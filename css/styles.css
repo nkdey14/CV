@@ -1,16 +1,19 @@
+body{
+  background-color: #E4F9F5;
+}
 
-  body{
-    background-color: #EAF6F6;
-  }
   hr{
     border-style: dotted;
-    border-color: grey;
+    border-color: white;
 
   }
   h1{
-    color: #66BFBF;
+    color: blue;
   }
   h3{
-    color: #66BFBF;
+    color: blue;
   }
-  
+  /*.nitin{
+    background-color: purple;
+  }
+*/
