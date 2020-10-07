@@ -1,5 +1,6 @@
 body{
   background-color: #E4F9F5;
+  margin: 0;
 }
 
   hr{
@@ -17,3 +18,27 @@ body{
     background-color: purple;
   }
 */
+.top{
+  position: relative;
+  bottom: 30px;
+  right: 20px;
+}
+.middle{
+  position: fixed;
+  bottom: 200px;
+  right:5px;
+}
+.bottom{
+  position: relative;
+  bottom: 55px;
+}
+.pro{
+  position: relative;
+  background-color: #ffe4c4;
+  bottom: 78px;
+}
+new{
+  font-family: serif;
+  font-style: italic;
+
+}
