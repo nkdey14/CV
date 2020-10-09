@@ -34,7 +34,7 @@ body{
 }
 .pro{
   position: relative;
-  background-color: #ffe4c4;
+  background-color: #faebd7;
   bottom: 245px;
 }
 new{
@@ -42,3 +42,11 @@ new{
   font-style: italic;
 
 }
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #dda0dd;
+   color: white;
+ }
