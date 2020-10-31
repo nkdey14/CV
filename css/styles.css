@@ -27,6 +27,9 @@ body{
   {
     color:#EAF6F6;
   }
+  title{
+    background-color: #ff4c68;
+  }
 
 
   /*.nitin{
@@ -69,10 +72,13 @@ new{
    left: 0;
    bottom: 0;
    width: 100%;
-   height: 10%;
+   height: 16%;
    background-color: #dda0dd;
    color: white;
    text-align:center;
    font-family:Times New Roman;
    font-size: 18px;
+ }
+ .download-button{
+   margin: 3% 1% 3% 0%
  }
