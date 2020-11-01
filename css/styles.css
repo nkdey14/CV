@@ -1,7 +1,7 @@
 body{
   background-color: #ffb6c1;
   margin: 0;
-  text-decoration:inherit;
+
   font-family:Arial,sans-serif;
 }
 
@@ -60,7 +60,15 @@ body{
   bottom: 25px;
   width: 100%;
 
-
+}
+.pro1{
+  margin-left: 5%;
+}
+.pro2{
+  margin-left: 19%;
+}
+.pro3{
+  margin-left: 34%;
 }
 
 new{
