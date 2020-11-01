@@ -88,9 +88,10 @@ new{
  .download-button{
    margin: 1% 1% 3% 0
  }
- /*.testimonial{
+ .testimonial{
+   border-radius:100%;
 
  }
  .tested{
    height:20%;
- }*/
+ }
