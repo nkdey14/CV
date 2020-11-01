@@ -1,5 +1,5 @@
 body{
-  background-color: #E4F9F5;
+  background-color: #ffb6c1;
   margin: 0;
   text-decoration:inherit;
   font-family:Arial,sans-serif;
@@ -60,7 +60,9 @@ body{
   bottom: 25px;
   width: 100%;
 
+
 }
+
 new{
   font-family: serif;
   font-style: italic;
