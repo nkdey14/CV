@@ -14,6 +14,7 @@ body{
     color: black;
     font-family: cursive;
     font-size: 30px;
+     text-shadow: 2px 2px;
   }
   h4{
     color: #000080;
@@ -44,7 +45,7 @@ body{
 }
 .middle{
   position: relative;
-  bottom: 30px;
+  bottom: 15px;
   right:10px;
 /*  background-color: #e6e6fa;*/
   width:100%;
@@ -98,11 +99,18 @@ new{
  .download-button{
    margin: 1% 1% 3% 0
  }
-/* .testimonial{
-
-
- }*/
+ .testimonial{
+  border-radius: 8px;
+ }
  .tested{
    height:20%;
-   border-radius:100%;
+   border-radius:50%;
  }
+
+.nitin{
+  float: right;
+}
+div {
+  
+  opacity: 1;
+}
