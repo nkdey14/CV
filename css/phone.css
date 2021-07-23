@@ -31,7 +31,7 @@ h1{
 
 .middle{
   top: 120px;
-  right: 120px;
+  right: 90px;
 
 }
 
@@ -54,9 +54,16 @@ h1{
   margin-left: 5%;
 }
 .pro2{
-  bottom: 110px;
+  bottom: 120px;
   margin-left: 35%;
 }
 .pro3{
   margin-left: 68%;
+}
+
+.button{
+  font-size: 60px;
+}
+.btn {
+  font-size: 16px;
 }
