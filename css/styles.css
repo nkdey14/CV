@@ -129,7 +129,7 @@ div {
   opacity: 1;
 }
 
-/*@media (max-width:998px) {
+@media (max-width:998px) {
   html {
     font-size: 55%;
   }
@@ -140,4 +140,4 @@ div {
   html {
     font-size: 45%;
   }
-}*/
+}
