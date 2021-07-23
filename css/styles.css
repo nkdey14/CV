@@ -58,6 +58,7 @@ body{
   bottom: 15px;
   right:10px;
 /*  background-color: #e6e6fa;*/
+text-shadow: none;
   width:100%;
   line-height: 2.5;
 }
@@ -128,15 +129,15 @@ div {
   opacity: 1;
 }
 
-@media (max-width:998px) {
+/*@media (max-width:998px) {
   html {
     font-size: 55%;
   }
-  
+
 }
 
 @media (max-width:768px) {
   html {
     font-size: 45%;
   }
-}
+}*/
