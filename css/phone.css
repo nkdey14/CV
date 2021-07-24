@@ -1,18 +1,18 @@
 .pro{
   flex-direction: column;
   font-size: 24px;
-  top:240px;
+  top:300px;
 }
 h3{
   font-size: 40px;
 }
 
 .fimage{
-  display:none;
+  display: none;
 }
 
 .top{
-  height:240px;
+  height:215px;
 
 }
 
@@ -30,8 +30,8 @@ h1{
 }
 
 .middle{
-  top: 120px;
-  right: 90px;
+  top: 170px;
+  right: 30px;
 
 }
 
@@ -46,7 +46,7 @@ h1{
 }
 
 .footer{
-  height: 5%;
+  height: 7%;
   font-size: 70px;
 }
 
